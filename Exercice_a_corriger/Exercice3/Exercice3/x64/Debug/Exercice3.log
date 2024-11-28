@@ -1,0 +1,3 @@
+﻿  Ex3_V02.c
+C:\ANE\PROGRE\PROG_SLO1_24_25\Exercice_a_corriger\Exercice3\Exercice3\Ex3_V02.c(25,20): warning C4244: 'initialisation' : conversion de 'double' en 'const int64_t', perte possible de données
+  Exercice3.vcxproj -> C:\ANE\PROGRE\PROG_SLO1_24_25\Exercice_a_corriger\Exercice3\x64\Debug\Exercice3.exe
